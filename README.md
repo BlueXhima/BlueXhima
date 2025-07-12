@@ -1,29 +1,37 @@
-<h1 align="center">Hi 👋, I'm B L U E</h1>
-<h3 align="center">A passionate future frontend developer from Philippines</h3>
+# Hello, I'm Blue! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluexhima&label=Profile%20views&color=0e75b6&style=flat" alt="bluexhima" /> </p>
+I'm a passionate frontend developer from the Philippines, dedicated to crafting beautiful and functional web applications.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluexhima" alt="bluexhima" /></a> </p>
+## 🚀 Current Projects
+- **E-Commerce Platform**: Enhancing the online shopping experience with a user-friendly interface.
 
-- 🔭 I’m currently working on **E-Commerce**
+## 🌱 Currently Learning
+- **Bootstrap**: Mastering responsive design.
+- **PHP**: Diving into backend development.
+- **Web Development**: Expanding my skills in full-stack development.
 
-- 🌱 I’m currently learning **Bootstraps, PHP, Web development**
+## 💬 Let's Connect!
+- **Email**: [bluexshima@gmail.com](mailto:bluexshima@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](#) (Add your LinkedIn link)
 
-- 💬 Ask me about **life and anime**
+## 🛠️ Technologies & Tools
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks**: Bootstrap
+- **Databases**: MySQL
+- **Version Control**: Git
 
-- 📫 How to reach me **bluexshima@gmail.com**
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlueXhima&show_icons=true&theme=radical)
 
-- ⚡ Fun fact **I was eager to learn some Knowledge**
+## 🌟 Featured Projects
+- [Project 1](#) - A brief description of what this project does.
+- [Project 2](#) - A brief description of what this project does.
+- [Project 3](#) - A brief description of what this project does.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🎨 Fun Fact
+I have a passion for anime and enjoy integrating creative designs into my projects!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📫 Reach Out
+I'm always open to discussing new projects, ideas, or collaborations. Feel free to reach out!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bluexhima&show_icons=true&locale=en&layout=compact" alt="bluexhima" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluexhima&show_icons=true&locale=en" alt="bluexhima" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluexhima&" alt="bluexhima" /></p>
+Thank you for visiting my profile! Let's create something amazing together!
